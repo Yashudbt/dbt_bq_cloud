@@ -1,2 +1,2 @@
 
-select * from devo-407410.Landing.sample_tbl
+select * from devo-407410.Landing.ACCOUNTS
